@@ -66,8 +66,8 @@ The `TCOE_Template.html` uses `{{TOKEN}}` placeholders and HTML comments to mark
 | `## Key Resources` | 3-column icon card grid with emoji + linked title |
 | `> **Important Reminder**` | Orange left-bordered callout (placed before first H2 section) |
 | `## Incubations` | Section header + blue underline. Conatins stack of horizontal incubation cards. |
-| `## Quick Starts` | Section header + green underline 2-column card grid of quick start cards. |
-| `## Scope Expansions` | Section header + red underline 2-column card grid of incubation cards. |
+| `## Quick Starts` | Section header + blue underline 2-column card grid of quick start cards. |
+| `## Scope Expansions` | Section header + blue underline 2-column card grid of incubation cards. |
 
 ### Color Palette
 
